@@ -1,0 +1,11 @@
+# Eclipse workspace (NEVER commit)
+.metadata/
+
+# Eclipse project files (optional)
+.settings/
+
+# Maven
+**/target/
+
+# TestNG
+**/test-output/
